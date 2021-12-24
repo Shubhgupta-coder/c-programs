@@ -17,4 +17,3 @@ int main() {
     printf("the sum is %d ",seriessum(n));
     return 0;
 }
-    
