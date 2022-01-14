@@ -18,4 +18,3 @@ int main() {
     root2=(-b- sqrt(discriminant))/(2*a);
     printf("%d%d \n \n",root1,root2);
     }
-	

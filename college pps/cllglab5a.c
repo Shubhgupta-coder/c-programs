@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int n,a=0,b=1,i=3,c;
+	int n,a=0,b=1,i=1,c;
 	printf("enter value of n");
 	scanf("%d",&n);
 	printf("first and second number %d%d",a,b);

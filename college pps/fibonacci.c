@@ -3,7 +3,7 @@
 int main() {
     int n, a=0,i,b=1 ,c;
     
-    printf("enter the number uo to which you want to print fibonacci series");
+    printf("enter the number up to which you want to print fibonacci series");
     scanf("%d",&n);
     
     for(i=1;i<=n;i++)
