@@ -5,10 +5,11 @@ int main()
 {
     int n,x,i,r=1;
     printf("enter the value of n and x");
-    scanf("%d %d",&x,&n);
+    scanf("%d %d",&n,&x);
 
     for (i=1;i<=n;i++)
     {
+
         r=r-pow(-x,i)/i;
     }
     
